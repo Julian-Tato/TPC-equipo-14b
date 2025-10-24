@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Dominio.Usuarios_Personas
 {
-    internal class Proveedor
+    public class Proveedor : Entidad
     {
+        // IdProveedor es mapeado a EntidadBase.Id
+        public int IdProveedor { get; set; }
+        public string Seudonimo { get; set; }
+        public string RazonSocial { get; set; }
+        public string Cuit { get; set; }
     }
 }

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Dominio.Usuarios_Personas
 {
-    internal class Entidad
+    public class Entidad
     {
+
     }
 }

@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\",
+  "WorkspaceRootPath": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|c:\\users\\usuario\\desktop\\repositorio programacion iii\\tpc\\tpc\\dominio\\usuarios-personas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|c:\\users\\pancho\\onedrive\\desktop\\repo github\\tpc-equipo-14b\\dominio\\usuarios-personas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuarios-personas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|c:\\users\\pancho\\onedrive\\desktop\\repo github\\tpc-equipo-14b\\dominio\\articulos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulos\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|c:\\users\\pancho\\onedrive\\desktop\\repo github\\tpc-equipo-14b\\dominio\\articulos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\articulos\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|c:\\users\\pancho\\onedrive\\desktop\\repo github\\tpc-equipo-14b\\dominio\\usuarios-personas\\entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuarios-personas\\entidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|c:\\users\\pancho\\onedrive\\desktop\\repo github\\tpc-equipo-14b\\dominio\\compras\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\compras\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|c:\\users\\pancho\\onedrive\\desktop\\repo github\\tpc-equipo-14b\\dominio\\compras\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\compras\\detallecompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|c:\\users\\pancho\\onedrive\\desktop\\repo github\\tpc-equipo-14b\\dominio\\usuarios-personas\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D827FD09-D0C5-4D8B-9C48-B4D16411237E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\usuarios-personas\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +38,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Compras\\DetalleCompra.cs",
+              "RelativeDocumentMoniker": "Dominio\\Compras\\DetalleCompra.cs",
+              "ToolTip": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Compras\\DetalleCompra.cs",
+              "RelativeToolTip": "Dominio\\Compras\\DetalleCompra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:16:28.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Compras\\Compra.cs",
+              "RelativeDocumentMoniker": "Dominio\\Compras\\Compra.cs",
+              "ToolTip": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Compras\\Compra.cs",
+              "RelativeToolTip": "Dominio\\Compras\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:16:10.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Usuarios-Personas\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Dominio\\Usuarios-Personas\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Usuarios-Personas\\Proveedor.cs",
+              "RelativeToolTip": "Dominio\\Usuarios-Personas\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:15:26.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entidad.cs",
+              "DocumentMoniker": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Usuarios-Personas\\Entidad.cs",
+              "RelativeDocumentMoniker": "Dominio\\Usuarios-Personas\\Entidad.cs",
+              "ToolTip": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Usuarios-Personas\\Entidad.cs",
+              "RelativeToolTip": "Dominio\\Usuarios-Personas\\Entidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:14:28.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Articulos\\Articulo.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulos\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Articulos\\Articulo.cs",
+              "RelativeToolTip": "Dominio\\Articulos\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:11:37.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Articulos\\Categoria.cs",
+              "RelativeDocumentMoniker": "Dominio\\Articulos\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Articulos\\Categoria.cs",
+              "RelativeToolTip": "Dominio\\Articulos\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T22:11:35.575Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Dominio\\Usuarios-Personas\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Usuarios-Personas\\Cliente.cs",
               "RelativeDocumentMoniker": "Dominio\\Usuarios-Personas\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Dominio\\Usuarios-Personas\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Pancho\\OneDrive\\Desktop\\Repo github\\TPC-equipo-14b\\Dominio\\Usuarios-Personas\\Cliente.cs",
               "RelativeToolTip": "Dominio\\Usuarios-Personas\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-24T18:43:08.073Z",
               "EditorCaption": ""
