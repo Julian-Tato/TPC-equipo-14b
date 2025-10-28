@@ -20,7 +20,7 @@
                 <!-- Campos Principales (SKU y Descripción) -->
                 <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
                     
-                    <!-- NUEVO CAMPO SKU (BLOQUEADO) -->
+                    
                     <label class="flex flex-col flex-1 sm:col-span-1">
                         <p class="text-slate-700 dark:text-slate-300 text-sm font-medium leading-normal pb-2">SKU (Código)</p>
                         <asp:TextBox ID="txtSKU" runat="server" 
@@ -45,7 +45,6 @@
                             CssClass="form-select flex w-full min-w-0 flex-1 resize-none overflow-hidden rounded-lg text-slate-900 dark:text-white focus:outline-0 focus:ring-2 focus:ring-primary/50 border border-slate-300 dark:border-slate-600 bg-background-light dark:bg-slate-700/50 h-11 placeholder:text-slate-400 dark:placeholder:text-slate-500 pl-3 pr-8 text-sm font-normal leading-normal">
                             
                             <asp:ListItem Value="0" Selected="True" Disabled="True">-- Seleccionar Marca --</asp:ListItem>
-                            <!-- (Estos se cargarán desde la DB) -->
                             <asp:ListItem Value="1">Marca A</asp:ListItem> 
                             <asp:ListItem Value="2">Marca B</asp:ListItem>
                         </asp:DropDownList>
@@ -56,7 +55,6 @@
                             CssClass="form-select flex w-full min-w-0 flex-1 resize-none overflow-hidden rounded-lg text-slate-900 dark:text-white focus:outline-0 focus:ring-2 focus:ring-primary/50 border border-slate-300 dark:border-slate-600 bg-background-light dark:bg-slate-700/50 h-11 placeholder:text-slate-400 dark:placeholder:text-slate-500 pl-3 pr-8 text-sm font-normal leading-normal">
                             
                             <asp:ListItem Value="0" Selected="True" Disabled="True">-- Seleccionar Categoría --</asp:ListItem>
-                             <!-- (Estos se cargarán desde la DB) -->
                             <asp:ListItem Value="1">Categoría A</asp:ListItem>
                             <asp:ListItem Value="2">Categoría B</asp:ListItem>
                         </asp:DropDownList>

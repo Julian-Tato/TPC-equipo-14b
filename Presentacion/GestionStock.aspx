@@ -16,7 +16,7 @@
                 CssClass="flex min-w-[84px] max-w-[480px] cursor-pointer items-center justify-center overflow-hidden rounded-lg h-10 px-4 bg-slate-200 dark:bg-slate-700 text-slate-700 dark:text-slate-200 text-sm font-bold leading-normal tracking-[0.015em] hover:bg-slate-300 dark:hover:bg-slate-600" />
         </div>
 
-        <!-- 2. Información del Producto (Bloqueado) -->
+        <!-- 2. Información del Producto (bloqueadooo) -->
         <div class="bg-white dark:bg-slate-800 p-6 rounded-xl shadow-sm border border-slate-200 dark:border-slate-700/60">
             <div class="flex justify-between items-center mb-4">
                 <h3 class="text-slate-900 dark:text-white text-lg font-bold leading-tight tracking-[-0.015em]">Información del Producto</h3>

@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\desktop\\repositorio programacion iii\\tpc\\tpc\\presentacion\\gestionstock.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\gestionstock.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\desktop\\repositorio programacion iii\\tpc\\tpc\\presentacion\\productosforms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\presentacion\\productosforms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\productosforms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\desktop\\repositorio programacion iii\\tpc\\tpc\\presentacion\\productoslistados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\presentacion\\productoslistados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\productoslistados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\desktop\\repositorio programacion iii\\tpc\\tpc\\presentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\presentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\desktop\\repositorio programacion iii\\tpc\\tpc\\presentacion\\gestionstock.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\gestionstock.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductosForms.aspx",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Presentacion\\ProductosForms.aspx",
               "RelativeDocumentMoniker": "Presentacion\\ProductosForms.aspx",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GestionStock.aspx",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Presentacion\\GestionStock.aspx",
               "RelativeDocumentMoniker": "Presentacion\\GestionStock.aspx",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ProductosListados.aspx",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Presentacion\\ProductosListados.aspx",
               "RelativeDocumentMoniker": "Presentacion\\ProductosListados.aspx",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Site.Master",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Presentacion\\Site.Master",
               "RelativeDocumentMoniker": "Presentacion\\Site.Master",
