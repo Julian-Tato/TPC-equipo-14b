@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Dominio.Compras
 {
-    internal class DetalleCompra
+    public class DetalleCompra
     {
+        public int IdDetalleCompra { get; set; }
+        public int IdCompra { get; set; }  
+        public int IdProducto { get; set; } 
+        public int Cantidad { get; set; }
+        public decimal PrecioUnitario { get; set; } // <-- Precio de costo en esta compra
+        public decimal Subtotal { get; set; }
     }
 }
