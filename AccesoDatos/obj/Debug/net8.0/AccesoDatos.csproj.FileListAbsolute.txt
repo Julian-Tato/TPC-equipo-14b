@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\Repositorio Programacion III\TPC\TPC\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\Usuario\Desktop\Repositorio Programacion III\TPC\TPC\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\Usuario\Desktop\Repositorio Programacion III\TPC\TPC\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\Repositorio Programacion III\TPC\TPC\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Repositorio Programacion III\TPC\TPC\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Repositorio Programacion III\TPC\TPC\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Repositorio Programacion III\TPC\TPC\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Repositorio Programacion III\TPC\TPC\AccesoDatos\obj\Debug\net8.0\AccesoDatos.sourcelink.json
+C:\Users\Usuario\Desktop\Repositorio Programacion III\TPC\TPC\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\Usuario\Desktop\Repositorio Programacion III\TPC\TPC\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\Usuario\Desktop\Repositorio Programacion III\TPC\TPC\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Usuario\Desktop\Repositorio Programacion III\TPC\TPC\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll

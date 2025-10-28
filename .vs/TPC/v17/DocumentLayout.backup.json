@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\desktop\\repositorio programacion iii\\tpc\\tpc\\presentacion\\gestionstock.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\gestionstock.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\desktop\\repositorio programacion iii\\tpc\\tpc\\presentacion\\productosforms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\productosforms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\desktop\\repositorio programacion iii\\tpc\\tpc\\presentacion\\productoslistados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\productoslistados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|c:\\users\\usuario\\desktop\\repositorio programacion iii\\tpc\\tpc\\presentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{48A28298-1C62-42CC-A10B-2AA56BA6FF6E}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosForms.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Presentacion\\ProductosForms.aspx",
+              "RelativeDocumentMoniker": "Presentacion\\ProductosForms.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Presentacion\\ProductosForms.aspx*",
+              "RelativeToolTip": "Presentacion\\ProductosForms.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-28T17:37:27.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionStock.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Presentacion\\GestionStock.aspx",
+              "RelativeDocumentMoniker": "Presentacion\\GestionStock.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Presentacion\\GestionStock.aspx*",
+              "RelativeToolTip": "Presentacion\\GestionStock.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-28T16:27:28.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosListados.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Presentacion\\ProductosListados.aspx",
+              "RelativeDocumentMoniker": "Presentacion\\ProductosListados.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Presentacion\\ProductosListados.aspx*",
+              "RelativeToolTip": "Presentacion\\ProductosListados.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-28T16:14:43.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Presentacion\\Site.Master",
+              "RelativeDocumentMoniker": "Presentacion\\Site.Master",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Repositorio Programacion III\\TPC\\TPC\\Presentacion\\Site.Master",
+              "RelativeToolTip": "Presentacion\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-28T15:29:51.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

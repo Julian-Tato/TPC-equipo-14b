@@ -99,8 +99,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="About.aspx" />
-    <Content Include="Contact.aspx" />
+    <Content Include="GestionStock.aspx" />
+    <Content Include="ProductosForms.aspx" />
+    <Content Include="ProductosListados.aspx" />
+    <Content Include="Scripts\About.aspx" />
+    <Content Include="CategoriaListado.aspx" />
+    <Content Include="CategoriasForm.aspx" />
+    <Content Include="ClientesForm.aspx" />
+    <Content Include="ClientesListado.aspx" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
     <Content Include="Content\bootstrap-grid.rtl.css" />
@@ -121,6 +127,10 @@
     <Content Include="Default.aspx" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="MarcasForm.aspx" />
+    <Content Include="MarcasListado.aspx" />
+    <Content Include="ProveedoresForms.aspx" />
+    <Content Include="ProveedoresListados.aspx" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -179,25 +189,66 @@
     <Content Include="Site.Master" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
-    <Content Include="Bundle.config" />
     <Content Include="Site.Mobile.Master" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
-    <Compile Include="About.aspx.cs">
+    <Compile Include="GestionStock.aspx.cs">
+      <DependentUpon>GestionStock.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GestionStock.aspx.designer.cs">
+      <DependentUpon>GestionStock.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProductosForms.aspx.cs">
+      <DependentUpon>ProductosForms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductosForms.aspx.designer.cs">
+      <DependentUpon>ProductosForms.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProductosListados.aspx.cs">
+      <DependentUpon>ProductosListados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductosListados.aspx.designer.cs">
+      <DependentUpon>ProductosListados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Scripts\About.aspx.cs">
       <DependentUpon>About.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="About.aspx.designer.cs">
+    <Compile Include="Scripts\About.aspx.designer.cs">
       <DependentUpon>About.aspx</DependentUpon>
     </Compile>
     <Compile Include="App_Start\RouteConfig.cs" />
-    <Compile Include="Contact.aspx.cs">
-      <DependentUpon>Contact.aspx</DependentUpon>
+    <Compile Include="CategoriaListado.aspx.cs">
+      <DependentUpon>CategoriaListado.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Contact.aspx.designer.cs">
-      <DependentUpon>Contact.aspx</DependentUpon>
+    <Compile Include="CategoriaListado.aspx.designer.cs">
+      <DependentUpon>CategoriaListado.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CategoriasForm.aspx.cs">
+      <DependentUpon>CategoriasForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CategoriasForm.aspx.designer.cs">
+      <DependentUpon>CategoriasForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ClientesForm.aspx.cs">
+      <DependentUpon>ClientesForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ClientesForm.aspx.designer.cs">
+      <DependentUpon>ClientesForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ClientesListado.aspx.cs">
+      <DependentUpon>ClientesListado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ClientesListado.aspx.designer.cs">
+      <DependentUpon>ClientesListado.aspx</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
@@ -209,7 +260,35 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="MarcasForm.aspx.cs">
+      <DependentUpon>MarcasForm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MarcasForm.aspx.designer.cs">
+      <DependentUpon>MarcasForm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MarcasListado.aspx.cs">
+      <DependentUpon>MarcasListado.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MarcasListado.aspx.designer.cs">
+      <DependentUpon>MarcasListado.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProveedoresForms.aspx.cs">
+      <DependentUpon>ProveedoresForms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProveedoresForms.aspx.designer.cs">
+      <DependentUpon>ProveedoresForms.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ProveedoresListados.aspx.cs">
+      <DependentUpon>ProveedoresListados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProveedoresListados.aspx.designer.cs">
+      <DependentUpon>ProveedoresListados.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Site.Master.cs">
       <DependentUpon>Site.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
