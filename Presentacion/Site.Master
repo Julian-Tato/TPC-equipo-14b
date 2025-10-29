@@ -46,24 +46,24 @@
         }
     </script>
 
-    <!-- Estilo para Iconos -->
+    
     <style>
         .material-symbols-outlined {
             font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
         }
     </style>
 
-    <!-- Placeholder para estilos específicos de cada página -->
+    
     <asp:ContentPlaceHolder ID="HeadContent" runat="server">
     </asp:ContentPlaceHolder>
 
 </head>
-<body class="font-display"> <!-- Quité el bg-background-light de aquí -->
+<body class="font-display"> 
     <form runat="server">
-        <!-- El ScriptManager es CLAVE para Web Forms. Siempre al principio del form. -->
+        
         <asp:ScriptManager runat="server">
             <Scripts>
-                <%--Scripts de WebForms (no los borres) --%>
+                
                 <asp:ScriptReference Name="MsAjaxBundle" />
                 <asp:ScriptReference Name="jquery" />
                 <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
@@ -88,24 +88,12 @@
                              style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDFAAqHeSfO7W2HLqUVjRN65ATAJ0ChYsrUYykMt-ZFIpTcdegixzPVHSaPtGCJt1dDJJwFCZO6FgDzDKFlW85q3I7FX3su9aAS7czVzA76JDQOWzW94d5FQdGe4JCX-D8FWHVswo5EVx4haYs0LpV_X9WDc22NVDXorBRISpGpBG1ZD-WmcepKlm_QCEcq9M9fpf2obeTvo9ykm5qVTh2_qwxoOHSXxU4EpTEYbuZHNw_GjyarChxZYmdgU9F4U85e2HhyZVCgLlDr");'>
                         </div>
                         <div class="flex flex-col">
-                            <h1 class="text-slate-900 dark:text-slate-100 text-base font-medium">Multi-Purpose Inc.</h1>
+                            <h1 class="text-slate-900 dark:text-slate-100 text-base font-medium">TPC Programacion</h1>
                             <p class="text-slate-500 dark:text-slate-400 text-sm">Admin Panel</p>
                         </div>
                     </div>
 
-                    <!-- Buscador -->
-                    <div class="mt-4">
-                        <label class="flex flex-col w-full">
-                            <div class="flex w-full items-stretch rounded-lg h-10">
-                                <div class="text-slate-500 dark:text-slate-400 flex border-none bg-slate-100 dark:bg-slate-800 items-center justify-center pl-3 rounded-l-lg">
-                                    <span class="material-symbols-outlined text-base">search</span>
-                                </div>
-                                <asp:TextBox ID="txtBuscarSidebar" runat="server"
-                                    CssClass="form-input flex w-full min-w-0 flex-1 resize-none overflow-hidden rounded-lg text-slate-900 dark:text-slate-100 border-none bg-slate-100 dark:bg-slate-800 pl-2 text-sm"
-                                    placeholder="Buscar..."></asp:TextBox>
-                            </div>
-                        </label>
-                    </div>
+                   
 
                     <!-- Navegación (Pestañas) -->
                     <nav class="flex flex-col gap-2 mt-2">
@@ -171,8 +159,8 @@
                              style='background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuAW0nPCYchS6nUZLHvMuEXgQHrM9irXOHXxAQMBvo9GFv5jP1gsz32NmtG88UTuP0k0dGshgXYKKmcSPoiu6PNf31Yc3vG8ScuxrG0jNo8U9CpoCEMuhOOoau12ACdP7rDCof0pmQPtjK_gK-OaPN9UYerK1HB2O0i38_HgYCgzRLkGy8p0CxN1I68yl6TvMCLHfgxYbuunkoC1k7hVePHvaHjVdp1an_A85kDwRXLv6auAmA9CKhSy5oY79IKy1pA_l2beqLo1yl-1");'>
                         </div>
                         <div class="flex-1 text-left">
-                            <p class="text-sm font-medium">Admin</p>
-                            <p class="text-xs text-slate-500">admin@example.com</p>
+                            <p class="text-sm font-medium">Julian</p>
+                            <p class="text-xs text-slate-500">Julian@example.com</p>
                         </div>
                         <span class="material-symbols-outlined">logout</span>
                     </asp:LinkButton>
@@ -183,9 +171,9 @@
             <main class="flex flex-1 flex-col">
                 <header class="flex items-center justify-between border-b border-slate-200 bg-white dark:bg-background-dark px-6 sm:px-10 py-3 sticky top-0 z-10">
                     <div class="flex flex-col">
-                        <!-- (Este título cambiará en cada página) -->
-                        <h2 class="text-slate-900 dark:text-white text-lg font-semibold">Bienvenido de nuevo, Admin</h2>
-                        <p class="text-sm text-slate-500 dark:text-slate-400">Aquí tienes un resumen de tu negocio.</p>
+                        
+                        <h2 class="text-slate-900 dark:text-white text-lg font-semibold">Bienvenido de nuevo, Julian</h2>
+                        
                     </div>
                     <div class="flex justify-end gap-4 items-center">
                         <asp:Button ID="btnNotificaciones" runat="server" Text="🔔" CssClass="size-10 bg-slate-100 dark:bg-slate-800 rounded-lg text-slate-900 dark:text-slate-100" />
@@ -193,18 +181,16 @@
                     </div>
                 </header>
                 
-                <!-- ============================================= -->
-                <!-- ESTE ES EL "AGUJERO" DONDE VA EL CONTENIDO -->
-                <!-- ============================================= -->
+               
                 <div class="p-4 sm:p-6 lg:p-8 flex-1 bg-background-light dark:bg-background-dark">
                     <asp:ContentPlaceHolder ID="MainContent" runat="server">
-                        <!-- El contenido de tus páginas .aspx irá aquí -->
+                        
                     </asp:ContentPlaceHolder>
                 </div>
             </main>
         </div>
 
-        <!-- SCRIPT DEL MENÚ DESPLEGABLE ELIMINADO -->
+        
         
     </form>
 </body>
